@@ -9,7 +9,9 @@ Trained model parameters will be saved at 'model.pt'
 # how to run, at anaconda
 
 conda create --name pyg python=3.6
+
 conda activate pyg
+
 conda install pytorch==1.5.1 cudatoolkit=10.2 -c pytorch
 
 pip install --no-index torch-scatter -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
