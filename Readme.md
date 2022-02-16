@@ -6,7 +6,7 @@ I studied the code at https://github.com/d-ailin/GDN and tried to improve it mys
 
 Trained model parameters will be saved at 'model.pt'
 
-this code is for cpu.
+This code is for cpu.
 
 # how to run, at anaconda
 
