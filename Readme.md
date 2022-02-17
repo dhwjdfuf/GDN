@@ -8,6 +8,8 @@ Trained model parameters will be saved at 'model.pt'
 
 This code is for cpu.
 
+You can set hyperparameters by modifying config={} at line 94 of main.py.
+
 # how to run, at anaconda
 
 conda create --name pyg python=3.6
